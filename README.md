@@ -160,6 +160,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz): On-chain agent trust scoring for Solana agents. Provides reputation scores and preflight checks for AI agents using HTTP 402 micro-payments — useful for verifying agent identity before granting permissions in multi-agent security pipelines.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
